@@ -9,6 +9,7 @@ const port = 3000;
 const keywords = {
 	college: [
 		"https://ithub.ru/",
+		"https://ithub.bulgakov.app/main",
 		"https://online.ithub.ru/profday?utm_source=Yandex&utm_medium=5459388686&utm_campaign=112032546&utm_content=16242008512&utm_term=ithub&roistat=direct5_search_16242008512_ithub&roistat_referrer=none&roistat_pos=premium_1&utm_domen=none&utm_position=premium1&utm_region=Москва&utm_device=desktop&utm_tendency=norm&yclid=6256135191151771647",
 	],
 	википедия: [
