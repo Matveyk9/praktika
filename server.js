@@ -15,8 +15,8 @@ const keywords = {
 		"https://ru.wikipedia.org/wiki/Заглавная_страница",
 		"https://ru.wikipedia.org/wiki/Википедия:Форум",
 	],
-	youtube: [
-		"https://www.youtube.com/"
+	Avito: [
+		"https://www.avito.ru/"
 	]
 };
 
