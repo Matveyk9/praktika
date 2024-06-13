@@ -70,7 +70,7 @@ function updateSavedContentList() {
 	const savedContents =
 		JSON.parse(localStorage.getItem("savedContents")) || [];
 	const savedContentList = document.getElementById("savedContentList");
-	savedContentList.innerHTML = "<h3>Загруженный контент</h3>";
+	savedContentList.innerHTML = "<h3>Downloaded Content</h3>";
 
 	savedContents.forEach((item, index) => {
 		const contentElement = document.createElement("button");
