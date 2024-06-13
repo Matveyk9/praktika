@@ -16,7 +16,7 @@ const keywords = {
 		"https://ru.wikipedia.org/wiki/Википедия:Форум",
 	],
 	DNS: [
-		"https://www.dns-shop.ru//",
+		"https://www.dns-shop.ru/",
 	]
 };
 
