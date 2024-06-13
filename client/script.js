@@ -85,5 +85,4 @@ function updateSavedContentList() {
 	});
 }
 
-// Initialize saved content list on page load
 document.addEventListener("DOMContentLoaded", updateSavedContentList);
